@@ -7,6 +7,9 @@
 <?php
 $cloud = "Azure";
 echo "Hello $cloud!";
+
+var_dump($cloud);
+
 /*
 echo '<script type="text/JavaScript">  
      alert("I am a JavaScript Alert"); 
