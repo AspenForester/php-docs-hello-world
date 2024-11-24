@@ -7,7 +7,7 @@
 <?php
 $cloud = "Azure";
 echo "Hello $cloud!";
-echo "\n\r";
+echo "<br>";
 
 var_dump($cloud);
 
