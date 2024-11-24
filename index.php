@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-$cloud = "Azure"
+$cloud = "Azure";
 echo "Hello $cloud!";
 /*
 echo '<script type="text/JavaScript">  
