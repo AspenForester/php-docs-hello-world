@@ -1,9 +1,9 @@
 <?php
 
-echo "Hello World!";
+echo "Hello Azure!\r\n";
 
 echo '<script type="text/JavaScript">  
-     alert("GeeksForGeeks"); 
+     alert("I'm a JavaScript Alert!"); 
      </script>' 
 ; 
 
