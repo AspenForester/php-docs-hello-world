@@ -5,8 +5,8 @@
 <h1>My first PHP page</h1>
 
 <?php
-
-echo "Hello Azure!";
+$cloud = "Azure"
+echo "Hello $cloud!";
 /*
 echo '<script type="text/JavaScript">  
      alert("I am a JavaScript Alert"); 
