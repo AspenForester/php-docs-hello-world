@@ -3,7 +3,7 @@
 echo "Hello World!";
 
 echo '<script type="text/JavaScript">  
-     prompt("GeeksForGeeks"); 
+     alert("GeeksForGeeks"); 
      </script>' 
 ; 
 
